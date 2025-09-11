@@ -4,10 +4,11 @@ button {
     margin-top:3px;
     border-width: 5px;
     border-color: crimson;
-    color: darkred;
+    color: rgb(26, 1, 1);
     width:136px ;
     height:42px ;
     background-color: rgb(105, 12, 12);
+    
 }
 
 body {
