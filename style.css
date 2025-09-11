@@ -6,3 +6,8 @@ button {
     border-color: crimson;
     color: darkred;
 }
+
+body {
+    background: linear-gradient(rgb(101, 18, 18),rgb(118, 6, 6) );
+    align-items: center;
+}
