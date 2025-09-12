@@ -1,5 +1,8 @@
 button {
-    align-content: center;
+    display: flex;
+    justify-content: center; /* Centers horizontally */
+    align-items: center;     /* Centers vertically */
+    height: 500px;          
     border-radius:3px ;
     margin-top:3px;
     border-width: 5px;
